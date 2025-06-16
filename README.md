@@ -122,7 +122,7 @@ Built using Power BI, the dashboard consists of **Three main pages**:
 ### Page 3 – Product Transactions
 Detailed analysis of financial products, including year-over-year (YoY) comparisons, transaction amounts, and fee-based revenue breakdowns. This page provides insights into the performance and profitability of each product category.
 
-You can interact with report here [FP20 Analytics](-)
+You can interact with report here [FP20 Analytics](https://app.powerbi.com/view?r=eyJrIjoiZDI4MTA5NjktY2YwYi00NWM0LTkxYTctNzMzYjAyNjM0YjU3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ![](dashboard.svg) 
 
