@@ -158,22 +158,22 @@ You can interact with report here [FP20 Analytics](https://app.powerbi.com/view?
 
 ## 9. Recommendations
 
-1. **Optimize Engagement with Middle-Income Customers**  
+- **Optimize Engagement with Middle-Income Customers**  
    **Recommendation**: Develop tailored marketing campaigns and product offerings focusing on credit card benefits and bundled services for the Middle Income Segment. This segment is a significant driver of overall transaction volume and fee generation.
 
-2. **Strategize Around Loan-Related Fees and Reduce Late Payment Friction**  
+- **Strategize Around Loan-Related Fees and Reduce Late Payment Friction**  
    **Recommendation**: Analyze the specific fees associated with loan payments to ensure transparency and fairness. Implement proactive measures like enhanced payment reminders or flexible payment options to reduce Late Payment Amounts, minimizing customer friction while managing revenue.
 
-3. **Enhance and Prioritize Digital Channels, Especially Mobile**  
+- **Enhance and Prioritize Digital Channels, Especially Mobile**  
    **Recommendation**: Continue to invest heavily in mobile banking features, user experience, and security. Explore expanding services exclusively through the mobile app. Evaluate the role of physical branches for complex transactions and advisory services rather than routine transactions.
 
-4. **Refine the Product Recommendation Engine**  
+- **Refine the Product Recommendation Engine**  
    **Recommendation**: Conduct a thorough review of the recommendation engine's algorithms and data. Aim to better align `RecommendedOffer` with actual customer needs and the bank's desired product adoption, especially for offers showing misalignment (e.g., Mid-tier Savings Booster and Premium Investment Services). Consider A/B testing and customer feedback.
 
-5. **Leverage Seasonal Transaction Patterns for Strategic Planning**  
+- **Leverage Seasonal Transaction Patterns for Strategic Planning**  
    **Recommendation**: Plan marketing campaigns, product launches, and customer service staffing to capitalize on the Q1 transactional peak. Conversely, utilize slower periods for internal process improvements or customer retention initiatives.
 
-6. **Deep Dive into City-Level Performance**  
+- **Deep Dive into City-Level Performance**  
    **Recommendation**: Investigate the reasons for lower transaction activity in cities like Madrid and Bilbao. This could involve analyzing local demographics, economic conditions, and competitor landscapes to inform targeted marketing efforts or service optimizations in these areas.
 
 ---
